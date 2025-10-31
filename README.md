@@ -25,3 +25,4 @@ This project demonstrates a Convolutional Neural Network (CNN) trained on the CI
 - `outputs/figures/` — accuracy and loss plots, sample predictions
 
 The CIFAR-10 dataset will download automatically when you run the script.
+"# Neural_Network_Image_Classification" 
